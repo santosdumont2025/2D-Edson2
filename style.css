@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-style: normal;
+
+header {
+    background-color: #333;  /* Cor de fundo */
+    color: white;  /* Cor do texto */
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+}
+[]
